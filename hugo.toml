@@ -1,0 +1,53 @@
+baseURL = 'https://JTAKER.github.io/'
+publishDir = 'docs'
+languageCode = 'en-us'
+title = 'Joseph Terryn'
+theme = 'typo'
+
+[params]
+
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+Extremely amateur software developer, university student, MTG entusiast, video game addict, hockey lover.
+
+There's not really anything here, so I dunno why you're here. Welcome, though!
+"""
+
+theme = 'light'
+
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+[[params.social]]
+name = "threads"
+url = "https://www.threads.net/@terrynsucks"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/terrynsucks/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/JTAKER"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/terrynsucks"
+
+
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "portfolio"
+url = "/portfolio"
