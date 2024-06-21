@@ -6,8 +6,15 @@
     <description>Recent content in Home on Joseph Terryn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 14:14:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 21:22:29 -0400</lastBuildDate>
     <atom:link href="https://JTAKER.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elden Ring Patch Rollback</title>
+      <link>https://JTAKER.github.io/posts/regress/</link>
+      <pubDate>Thu, 20 Jun 2024 21:22:29 -0400</pubDate>
+      <guid>https://JTAKER.github.io/posts/regress/</guid>
+      <description>Step 1 Type this in your browser.&#xA;steam://nav/console A prompt will pop-up and open with steam.&#xA;Step 2 Copy &amp;amp; paste each thing 1 by 1 into the console that opens in the steam client:&#xA;download_depot 1245620 1245624 4173907165901381087 download_depot 1245620 1245621 4586391483365949586 That second one is redownloading the game, so it&amp;rsquo;ll take some time. You might be able to check the download in the Downloads tab of Steam but sometimes it doesn&amp;rsquo;t show up.</description>
+    </item>
     <item>
       <title>Lethal Modding</title>
       <link>https://JTAKER.github.io/posts/lethal-modding/</link>

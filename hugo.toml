@@ -18,6 +18,8 @@ theme = 'light'
 homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
+paginationSize = 100
+
 [[params.social]]
 name = "threads"
 url = "https://www.threads.net/@terrynsucks"
